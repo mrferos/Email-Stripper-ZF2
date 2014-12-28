@@ -1,3 +1,6 @@
+![Travis-CI](https://travis-ci.org/mrferos/Email-Stripper-ZF2.svg)
+![Scrutinizer-CI](https://scrutinizer-ci.com/g/mrferos/Email-Stripper-ZF2/badges/quality-score.png?b=master)
+
 Email-Stripper ZF2
 ==================
 
