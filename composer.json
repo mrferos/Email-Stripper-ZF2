@@ -1,0 +1,24 @@
+{
+    "name": "mrferos/email-stripper-zf2",
+    "description": "ZF2 package of Email-Stripper",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andres Galindo",
+            "email": "me@andresgalindo.us"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "MrfEmailStripper\\" : "src/"
+        }
+    },
+    "require": {
+        "zendframework/zend-modulemanager"  :  "~2.2",
+        "zendframework/zend-servicemanager" :  "~2.2",
+        "mrferos/email-stripper": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "~3.7"
+    }
+}
